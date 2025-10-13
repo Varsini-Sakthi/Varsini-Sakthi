@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vsakthi1@jh.edu**
 
-- 📄 Know about my experiences [www.linkedin.com/in/varsini-sakthi](www.linkedin.com/in/varsini-sakthi) and https://www.kaggle.com/varsinisr[https://www.kaggle.com/varsinisr]
+- 📄 Know about my experiences [www.linkedin.com/in/varsini-sakthi](www.linkedin.com/in/varsini-sakthi) and https://www.kaggle.com/varsinisr
 
 - ⚡ Fun fact **I hold a Bachelor’s degree in Biotechnology.**
 
