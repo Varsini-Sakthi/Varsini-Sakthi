@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Integrating Mathematical Modeling and Machine Learning to Map Brain Tumors**
 
+- 🧬 I built **SpatialFormer** - a spatially aware transformer for cell state prediction in spatial transcriptomics, deployed on <a href="https://huggingface.co/spaces/Varsini-Sakthi/Spatialformer">Hugging Face Spaces</a>
+
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Computational Bioinformatics and Machine Learning**
@@ -12,8 +14,6 @@
 - 📫 How to reach me **vsakthi1@jh.edu**
 
 - 📄 Know about my experiences [www.linkedin.com/in/varsini-sakthi](www.linkedin.com/in/varsini-sakthi) and https://www.kaggle.com/varsinisr
-
-- 🔗 Hugging Face link https://huggingface.co/spaces/Varsini-Sakthi/Spatialformer 
 
 - ⚡ Fun fact **I hold a Bachelor’s degree in Biotechnology.**
 
